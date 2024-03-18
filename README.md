@@ -14,6 +14,6 @@ At which point I was basically rebuilding the entire library set. And then I dec
 And well, that's how we got here.
 
 Still to do:
-* Only the most obvious photoshop jobs were fixed and the composites were largely left alone. A second pass needs to be done to find less obvious fakes.
+* Only the most obvious photoshop jobs were fixed and the composites were largely left alone. A second pass might be done to find less obvious fakes & figure out if they're worth replacing or not. (On the one hand: not actual box art; on the other, they're going to be 170px tall — does it matter that much?)
 * Some percentage of the Japanese box art that was technically correct is also oddly resized into the incorrect aspect ratio. Need to double check these to see which need fixing.
 * Game Boy Color.
