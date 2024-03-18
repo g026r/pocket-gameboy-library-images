@@ -10,22 +10,6 @@
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
-	<game name="[BIOS] Maxstation Boot ROM (China) (En) (Unl)" id="2130" cloneofid="1612">
-		<description>[BIOS] Maxstation Boot ROM (China) (En) (Unl)</description>
-		<rom name="[BIOS] Maxstation Boot ROM (China) (En) (Unl).gb" size="256" crc="783e69c2" md5="77a7021db824010a678791f6d062943d" sha1="1776bd61b8db71fc4c4d4b5feab4a21b3c1fd95b" sha256="27e4bee8a8fddc80d48393a51fd9cdf33abc981a795f6aecc59a03a12daff881"/>
-	</game>
-	<game name="[BIOS] Nintendo Game Boy Boot ROM (World) (Rev 1)" id="0006">
-		<description>[BIOS] Nintendo Game Boy Boot ROM (World) (Rev 1)</description>
-		<rom name="[BIOS] Nintendo Game Boy Boot ROM (World) (Rev 1).gb" size="256" crc="59c8598e" md5="32fbbd84168d3482956eb3c5051637f5" sha1="4ed31ec6b0b175bb109c0eb5fd3d193da823339f" sha256="cf053eccb4ccafff9e67339d4e78e98dce7d1ed59be819d2a1ba2232c6fce1c7" status="verified"/>
-	</game>
-	<game name="[BIOS] Nintendo Game Boy Boot ROM (Japan) (En)" id="1612" cloneofid="0006">
-		<description>[BIOS] Nintendo Game Boy Boot ROM (Japan) (En)</description>
-		<rom name="[BIOS] Nintendo Game Boy Boot ROM (Japan) (En).gb" size="256" crc="c2f5cc97" md5="a8f84a0ac44da5d3f0ee19f9cea80a8c" sha1="8bd501e31921e9601788316dbd3ce9833a97bcbc" sha256="26e71cf01e301e5dc40e987cd2ecbf6d0276245890ac829db2a25323da86818e" status="verified"/>
-	</game>
-	<game name="[BIOS] Nintendo Game Boy Pocket Boot ROM (World)" id="1614">
-		<description>[BIOS] Nintendo Game Boy Pocket Boot ROM (World)</description>
-		<rom name="[BIOS] Nintendo Game Boy Pocket Boot ROM (World).gb" size="256" crc="e6920754" md5="71a378e71ff30b2d8a1f02bf5c7896aa" sha1="4e68f9da03c310e84c523654b9026e51f26ce7f0" sha256="a8cb5f4f1f16f2573ed2ecd8daedb9c5d1dd2c30a481f9b179b5d725d95eafe2" status="verified"/>
-	</game>
 	<game name="3 Choume no Tama - Tama and Friends - 3 Choume Obake Panic!! (Japan)" id="0001">
 		<description>3 Choume no Tama - Tama and Friends - 3 Choume Obake Panic!! (Japan)</description>
 		<rom name="3 Choume no Tama - Tama and Friends - 3 Choume Obake Panic!! (Japan).gb" size="131072" crc="b61cd120" md5="93cea7134db2a28b06d30729ad460dd6" sha1="0982bcc82deb9c4db08e602a22a2bb4f31e7e6ae" sha256="efb642a031e175a07be768e8146ded4841ca599fa69b985ffcb69b555dc17cb4"/>
@@ -82,10 +66,10 @@
 		<description>4-in-1 Funpak - Volume II (USA, Europe)</description>
 		<rom name="4-in-1 Funpak - Volume II (USA, Europe).gb" size="131072" crc="018b4a02" md5="71feb6c7d5b764d5192c28efe74d13c6" sha1="5efeddce9e03ad56ee755c58fb658b045dc0fa53" sha256="d16375478a455270b758eb61f9c9fb380fbf5187e32a8fe3fc93ba4f4a330959"/>
 	</game>
-	<game name="8-in-1 (Taiwan) (En) (Unl)" id="1902">
+<!-- 	<game name="8-in-1 (Taiwan) (En) (Unl)" id="1902">
 		<description>8-in-1 (Taiwan) (En) (Unl)</description>
 		<rom name="8-in-1 (Taiwan) (En) (Unl).gb" size="524288" crc="fbc77225" md5="68b8c7756da95ca6173e532be047299a" sha1="f57efd4d5063cb87519fc3b574377cc9a2a841ee" sha256="d44b51ac50df3c1d5e71be88604b777fe17154612e7b1a57f2478e0c8980d3b4"/>
-	</game>
+	</game> -->
 	<game name="A-mazing Tater (USA)" id="0046">
 		<description>A-mazing Tater (USA)</description>
 		<rom name="A-mazing Tater (USA).gb" size="65536" crc="d229ac62" md5="53b746bff74c50cd3ebcf41161c66cf3" sha1="1e475cbd5fb7099df91155a103698e4e66da7a86" sha256="52ee7edb02d42bfc7a9a5a52df082424cd8d9b3cbd2aa47fc84bd32f79cd059a"/>
@@ -94,10 +78,10 @@
 		<description>Aa Harimanada (Japan)</description>
 		<rom name="Aa Harimanada (Japan).gb" size="131072" crc="5bffcc28" md5="437fec3b28d28314d580ec1e4d0bc9ae" sha1="ff3565fcac22b44bf542732d1b0b20ba96a6c961" sha256="1e6ac29d81ab688b195532c13ab6f95f4ddf58f010203cc5e53a6bd76418a716"/>
 	</game>
-	<game name="Action Replay Pro (World)" id="2065">
+<!-- 	<game name="Action Replay Pro (World)" id="2065">
 		<description>Action Replay Pro (World)</description>
 		<rom name="Action Replay Pro (World).gb" size="16384" crc="2ea05daa" md5="eed84ed6a1a34809832ac6de11a9ea89" sha1="e947b9264092168950ad1ce23bbe3d8ccfed765e" sha256="1cfb4d7021b3e17dc6a1b7a240090232c8e18d082247f40df60a7327fcd50f02"/>
-	</game>
+	</game> -->
 	<game name="Addams Family, The (Europe) (En,Fr,De)" id="0007">
 		<description>Addams Family, The (Europe) (En,Fr,De)</description>
 		<rom name="Addams Family, The (Europe) (En,Fr,De).gb" size="131072" crc="28fa451e" md5="8814b9ec76241a6ac4deefa00ebebad8" sha1="2246dbdb6c58c77814cf034ae9224be8e73c5084" sha256="5aead278cb3161461487bf21c9b06dbe5f766e439dac9833941ba67a3c1fe742" status="verified"/>
@@ -126,10 +110,10 @@
 		<description>Adventures of Lolo (Europe) (SGB Enhanced)</description>
 		<rom name="Adventures of Lolo (Europe) (SGB Enhanced).gb" size="262144" crc="176d2eeb" md5="8f6b6ef366a787852f664d945c86eb72" sha1="e09277358a7fd4f3a6206464dd9d39f3abe66a53" sha256="4c156c4d826b9cba5741feb621de60c6294adb36553fc43971794bd2a4ffb34a" status="verified"/>
 	</game>
-	<game name="Adventures of Pinocchio, The (Europe) (Proto)" id="0014" cloneofid="0937">
+<!-- 	<game name="Adventures of Pinocchio, The (Europe) (Proto)" id="0014" cloneofid="0937">
 		<description>Adventures of Pinocchio, The (Europe) (Proto)</description>
 		<rom name="Adventures of Pinocchio, The (Europe) (Proto).gb" size="65536" crc="0b9de1dc" md5="ba78ac0638f36a89386b690d619f13b1" sha1="6808d5a5fba9b58d67e91f22a2860e4e72f6eec1" sha256="50c3a2193005c9134699ab00de16510fb946db10cdbc33bfacd8a3132926b72e"/>
-	</game>
+	</game> -->
 	<game name="Adventures of Rocky and Bullwinkle and Friends, The (USA)" id="0015">
 		<description>Adventures of Rocky and Bullwinkle and Friends, The (USA)</description>
 		<rom name="Adventures of Rocky and Bullwinkle and Friends, The (USA).gb" size="131072" crc="362c841c" md5="f78e6574ba56879c9333b3aa60278721" sha1="0ce98889e5d9d6167338e91119394537318810da" sha256="cd3601b3c09371694940f9cd8d32f033c9e5c92146e3d8009e50710c78532291"/>
@@ -174,14 +158,14 @@
 		<description>Aladdin (USA) (SGB Enhanced)</description>
 		<rom name="Aladdin (USA) (SGB Enhanced).gb" size="262144" crc="af6bdc50" md5="ed5525a71dda6eaf4bbf8d5601b6b3b9" sha1="81b4e56ae235fbb123d7ad4bd7c1d96c3b69eb72" sha256="4940bf228fb2095daa6b382d84ebd0cf05cd81fc2e6e5244a03ab458593e53f5"/>
 	</game>
-	<game name="Aladdin (Europe) (Sample) (SGB Enhanced)" id="1695" cloneofid="0027">
+<!-- 	<game name="Aladdin (Europe) (Sample) (SGB Enhanced)" id="1695" cloneofid="0027">
 		<description>Aladdin (Europe) (Sample) (SGB Enhanced)</description>
 		<rom name="Aladdin (Europe) (Sample) (SGB Enhanced).gb" size="262144" crc="28827ea5" md5="a26406088504fdbde82e6783492388db" sha1="6d925762a46e1996cf3702dfb85be09f546b2137" sha256="e848c9507b287ec4599f6517d5c76aa4bda79eb6d7e29e79eaaa82352423e2ef"/>
-	</game>
-	<game name="Alfred Chicken (Europe) (Beta)" id="1747" cloneofid="0029">
+	</game> -->
+<!-- 	<game name="Alfred Chicken (Europe) (Beta)" id="1747" cloneofid="0029">
 		<description>Alfred Chicken (Europe) (Beta)</description>
 		<rom name="Alfred Chicken (Europe) (Beta).gb" size="131072" crc="2e19f638" md5="5f09960bc839e94957f44ebebb70e920" sha1="a9aa7cf61ffa42a4097f0c900ad4463d6fd89a19"/>
-	</game>
+	</game> -->
 	<game name="Alfred Chicken (Europe)" id="0029">
 		<description>Alfred Chicken (Europe)</description>
 		<rom name="Alfred Chicken (Europe).gb" size="131072" crc="3cab28d9" md5="b83f3c669d22bc74c72743821ae3aaa3" sha1="bc7327008de518ddfad0ad5c69896921dc2378e0" sha256="fc0b036ab76386f23c67055e7a56a5c5b96453958df057ab06755ba0798ef72d" status="verified"/>
@@ -290,10 +274,10 @@
 		<description>Aoki Densetsu Shoot! (Japan) (SGB Enhanced)</description>
 		<rom name="Aoki Densetsu Shoot! (Japan) (SGB Enhanced).gb" size="262144" crc="08727760" md5="6cbaaf40726a834ba7b3d7f179a140fe" sha1="95574e1eef5fbebde6f068091bc7298000ea2397" sha256="db1e1309cb5be3d89d54fe54bccec9518c67136c26de9ad43dded0d92809e445"/>
 	</game>
-	<game name="Aprilia - DiTech Interface (Unknown) (Unl) [b]" id="2003">
+<!-- 	<game name="Aprilia - DiTech Interface (Unknown) (Unl) [b]" id="2003">
 		<description>Aprilia - DiTech Interface (Unknown) (Unl) [b]</description>
 		<rom name="Aprilia - DiTech Interface (Unknown) (Unl) [b].gb" size="262144" crc="2e47d2d3" md5="0de7a22ef6e01db6017cfd3f571061b1" sha1="a921679b79191991eb75de3b6b21443f322a3699" sha256="4f7bb70b7dd3c0f85592c12ce3771663524e270e3b8d4ae24affacbe49ef0700" status="baddump"/>
-	</game>
+	</game> -->
 	<game name="Arcade Classic No. 1 - Asteroids &amp; Missile Command (USA, Europe) (SGB Enhanced)" id="0057">
 		<description>Arcade Classic No. 1 - Asteroids &amp; Missile Command (USA, Europe) (SGB Enhanced)</description>
 		<rom name="Arcade Classic No. 1 - Asteroids &amp; Missile Command (USA, Europe) (SGB Enhanced).gb" size="131072" crc="8259ac54" md5="25ec0916ff6f24a1878a9f30991d301d" sha1="a4849175191c44d878aff9ef1a86c3fe5e22e266" sha256="194f70c0df1d1f2936869af889344f4464abf92e48ad3c5c99f18ce14f7d9513" status="verified"/>
@@ -338,18 +322,18 @@
 		<description>Asterix (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Asterix (Europe) (En,Fr,De,Es,It).gb" size="131072" crc="097ffe2c" md5="812db832566202610bb1e42e643e2b93" sha1="7d4ca6925826c0ffca3e3004479b5e9a5b6b311b" sha256="d735648ef98d982a982c61ecf0e4e7e229701ecaee66898a452b409b8fd398c8" status="verified"/>
 	</game>
-	<game name="Asterix (USA) (Proto 1)" id="1748" cloneofid="0069">
+<!-- 	<game name="Asterix (USA) (Proto 1)" id="1748" cloneofid="0069">
 		<description>Asterix (USA) (Proto 1)</description>
 		<rom name="Asterix (USA) (Proto 1).gb" size="32768" crc="6ccfee1f" md5="b78f7809624994defcf23d2ec5e17d70" sha1="5077f422e513877e9c4e3497111f853376748826"/>
-	</game>
-	<game name="Asterix (USA) (Proto 2)" id="1749" cloneofid="0069">
+	</game> -->
+<!-- 	<game name="Asterix (USA) (Proto 2)" id="1749" cloneofid="0069">
 		<description>Asterix (USA) (Proto 2)</description>
 		<rom name="Asterix (USA) (Proto 2).gb" size="32768" crc="0050b16f" md5="efa067c7aaed8dd19777443db9228516" sha1="5e2423d1d4a1239af2ccafdd6c0a3f2316ae6b51"/>
-	</game>
-	<game name="Asterix &amp; Obelix (Europe) (Fr,De) (Beta) (SGB Enhanced)" id="1678" cloneofid="0067">
+	</game> -->
+<!-- 	<game name="Asterix &amp; Obelix (Europe) (Fr,De) (Beta) (SGB Enhanced)" id="1678" cloneofid="0067">
 		<description>Asterix &amp; Obelix (Europe) (Fr,De) (Beta) (SGB Enhanced)</description>
 		<rom name="Asterix &amp; Obelix (Europe) (Fr,De) (Beta) (SGB Enhanced).gb" size="262144" crc="bfa1d7be" md5="7850d8aa9f97272f359500fb7be66383" sha1="70472cbe59cfd426b0969150085cc97d31bd6470" sha256="c0b5a0474bd6872f54db138ac032a54e9ba915989ecc932cda25434b97decd2c"/>
-	</game>
+	</game> -->
 	<game name="Asterix &amp; Obelix (Spain) (En,Es) (SGB Enhanced)" id="0067">
 		<description>Asterix &amp; Obelix (Spain) (En,Es) (SGB Enhanced)</description>
 		<rom name="Asterix &amp; Obelix (Spain) (En,Es) (SGB Enhanced).gb" size="262144" crc="b1fd41d0" md5="cf5be6d9c263d02039bfaae93c1bd32c" sha1="b6cd446962357d0f560a5c9fae4c917e039fbb77" sha256="ec7ee66c72c1c13a7f655932aaa7a37d1d355e3eee0c849cd8e57e9150dcf1ca" status="verified"/>
@@ -362,10 +346,10 @@
 		<description>Asteroids (USA, Europe)</description>
 		<rom name="Asteroids (USA, Europe).gb" size="32768" crc="c1f88833" md5="13749826df12da4574e34ccb6d9c780d" sha1="435dbdaa9b9d2e0d0bc7c1c010cdc5ec9bd9f359" sha256="b34d96392f38b6b7c5462ce166f26e5c42f356dff6cff74ef9ac3e940ad7c6de"/>
 	</game>
-	<game name="Asteroids (USA, Europe) (Beta)" id="1750" cloneofid="0070">
+<!-- 	<game name="Asteroids (USA, Europe) (Beta)" id="1750" cloneofid="0070">
 		<description>Asteroids (USA, Europe) (Beta)</description>
 		<rom name="Asteroids (USA, Europe) (Beta).gb" size="32768" crc="eb31e472" md5="2cb38b3b78f755bcc5cd2aa059a7d2ed" sha1="28f4e2a076bfe5f7a77f695332705ea0085fccfb"/>
-	</game>
+	</game> -->
 	<game name="Astro Rabby (Japan)" id="0071">
 		<description>Astro Rabby (Japan)</description>
 		<rom name="Astro Rabby (Japan).gb" size="65536" crc="61e48eef" md5="5a88b67ed5475e591747bc7956642456" sha1="3e53fd25f350c78a29e0642ee6de80208930d469" sha256="66a361f81b19af107577d36e792c731f61164c514559a86813786b83978b5b1c"/>
@@ -398,10 +382,10 @@
 		<description>B.C. Kid 2 (Europe) (SGB Enhanced)</description>
 		<rom name="B.C. Kid 2 (Europe) (SGB Enhanced).gb" size="262144" crc="c28ef062" md5="2a2ae531b2cebd995508707b0e82b1b1" sha1="952a14298dcde28975f2cdd61f781000afb53125" sha256="6340ba86bf9500ece66d8acbcca90c4ab8c42de26804fde393311d62eaab3b61"/>
 	</game>
-	<game name="B.C. Kid 2 (Europe) (Beta) (SGB Enhanced)" id="1733" cloneofid="0078">
+<!-- 	<game name="B.C. Kid 2 (Europe) (Beta) (SGB Enhanced)" id="1733" cloneofid="0078">
 		<description>B.C. Kid 2 (Europe) (Beta) (SGB Enhanced)</description>
 		<rom name="B.C. Kid 2 (Europe) (Beta) (SGB Enhanced).gb" size="262144" crc="11ffc359" md5="f246a7acd295b25519cb5ec45df68fbc" sha1="dc70ba06fb2690c1b7e66963cc07da704f7a6d26" sha256="296b388185626d8ea9886f8983da32c30d1da4000804ec1f5f23953edc5dd811"/>
-	</game>
+	</game> -->
 	<game name="Baby T-Rex (Europe)" id="0079" cloneofid="1486">
 		<description>Baby T-Rex (Europe)</description>
 		<rom name="Baby T-Rex (Europe).gb" size="131072" crc="3f73fe7a" md5="b9df0bb1f84333a1e5ab4af563525cdc" sha1="30042c3fc60df0da25fa3db3955a2e4657c1cccf" sha256="fa725e044f48d567ce9b2c2b84e62470ccb64be49a5d355a3d0e4b8401bc502c"/>
@@ -442,10 +426,10 @@
 		<description>Barbie - Game Girl (USA, Europe)</description>
 		<rom name="Barbie - Game Girl (USA, Europe).gb" size="131072" crc="94c26cdf" md5="159c8ca77e153b1cc5fe6d5d82a091c2" sha1="6660e4457a1de3de1947a90c5ea9ff012d50336e" sha256="c71663c9172c69b3daded65aaaa3735d1f50379a471af345e8421a6a6c9aaa98" status="verified"/>
 	</game>
-	<game name="Barbie - Game Girl (USA) (Beta)" id="1751" cloneofid="0088">
+<!-- 	<game name="Barbie - Game Girl (USA) (Beta)" id="1751" cloneofid="0088">
 		<description>Barbie - Game Girl (USA) (Beta)</description>
 		<rom name="Barbie - Game Girl (USA) (Beta).gb" size="131072" crc="4660e0ab" md5="1a851b27609bedcb993be91bff5978b0" sha1="24886a5f26f1969e595f420bf963439ba6a693bd"/>
-	</game>
+	</game> -->
 	<game name="Bart no Survival Camp (Japan)" id="0090" cloneofid="0091">
 		<description>Bart no Survival Camp (Japan)</description>
 		<rom name="Bart no Survival Camp (Japan).gb" size="131072" crc="0fd66b1a" md5="0434a1320607ce8e79de69b10c7a1245" sha1="f0d855bba656b628c7dd9ed9e586853be75b790f" sha256="0ae4f084f69aa0c5506e03542d1812607e95b3d771e8a82925fb0c0afc6e5eeb"/>
@@ -534,10 +518,10 @@
 		<description>Battle Pingpong (Japan)</description>
 		<rom name="Battle Pingpong (Japan).gb" size="65536" crc="7c787bc4" md5="f24ccb89c3ff60f54600d7b063d5a6c2" sha1="5008699f7a31a1a0722114f83e94591e99b22cc0" sha256="5afbb7354d04c7e3b72fc5545944169ac2a68b09b188c841bfa0828bc907f0fe"/>
 	</game>
-	<game name="Battle Ships (Spain) (En,Fr,De,Es) (Beta)" id="1752" cloneofid="1180">
+<!-- 	<game name="Battle Ships (Spain) (En,Fr,De,Es) (Beta)" id="1752" cloneofid="1180">
 		<description>Battle Ships (Spain) (En,Fr,De,Es) (Beta)</description>
 		<rom name="Battle Ships (Spain) (En,Fr,De,Es) (Beta).gb" size="131072" crc="1f8ccb71" md5="08db8175b8903f68c3f874e0a39bed39" sha1="4c04f79c670661fa46b17f7f980e6e7e88e886e7"/>
-	</game>
+	</game> -->
 	<game name="Battle Space (Japan)" id="0112">
 		<description>Battle Space (Japan)</description>
 		<rom name="Battle Space (Japan).gb" size="65536" crc="a828fd4f" md5="c9dc09ea6d93d5114079f58c7bbf7982" sha1="76e47ad844abdde9eff09ea29a014f9a1eae5093" sha256="85b16134b866e1a1009cb0e8eea892293d60b7592262e64c0fba85bf73b67dbc" status="verified"/>
@@ -558,10 +542,10 @@
 		<description>Battleship (USA, Europe)</description>
 		<rom name="Battleship (USA, Europe).gb" size="65536" crc="fef62da5" md5="d4f7ade01af0818a79bc809cf96118bb" sha1="d3efb4afebcf94b191a66797a6bae2c90ba92c6a" sha256="5be274d1557bfc6d43ea42a15f15a6b160d135528c534b5bdc6725ce5e03dd97"/>
 	</game>
-	<game name="Battleship (USA, Europe) (Beta)" id="1736" cloneofid="0116">
+<!-- 	<game name="Battleship (USA, Europe) (Beta)" id="1736" cloneofid="0116">
 		<description>Battleship (USA, Europe) (Beta)</description>
 		<rom name="Battleship (USA, Europe) (Beta).gb" size="65536" crc="ec382a5d" md5="6ae068044245ff7d873111e27ef4ad95" sha1="d19343d62ec4a257e496ccb4d57c728cbad51e95" sha256="5f329f2fabb81efa610001c393a00498c90c3cc9aed9a232330ae895bc343b62"/>
-	</game>
+	</game> -->
 	<game name="Battletoads (Japan)" id="0117" cloneofid="0118">
 		<description>Battletoads (Japan)</description>
 		<rom name="Battletoads (Japan).gb" size="131072" crc="331cf7de" md5="3d57e0391c8191c105a4f015a0c103e9" sha1="666ed5d34f508c8805a67f4400fc01a1f2817e03" sha256="faf8e9ee10904026876341fbb4e52081d73a15eade7cfc52d8aa4f724410a544"/>
@@ -646,10 +630,10 @@
 		<description>Black Bass - Lure Fishing (USA)</description>
 		<rom name="Black Bass - Lure Fishing (USA).gb" size="262144" crc="2db3dace" md5="88908153a898e5d91a02206dbb03713a" sha1="d9524ac9f7788172a55cc8ceb6e199f8a12e033d" sha256="78671925d59738101c1fb4edf0e0f59787ed668fb321e1fb648c390ffafcde0a"/>
 	</game>
-	<game name="Blade Warrior (Europe) (Proto)" id="1740">
+<!-- 	<game name="Blade Warrior (Europe) (Proto)" id="1740">
 		<description>Blade Warrior (Europe) (Proto)</description>
 		<rom name="Blade Warrior (Europe) (Proto).gb" size="32768" crc="cfd54dbc" md5="39f9e3e6f9b12259e49908f4fab488fc" sha1="53c1e67430f923f74a611e675ca0cad8d0b13d76"/>
-	</game>
+	</game> -->
 	<game name="Blades of Steel (Europe)" id="0138">
 		<description>Blades of Steel (Europe)</description>
 		<rom name="Blades of Steel (Europe).gb" size="131072" crc="f7be0002" md5="6e8166c3783d1807d0a8c3b649e583c1" sha1="d030c46bc225fc92aa431276d9ae5812a30d6007" sha256="e14484b2b5f6e0eff508b3cb99663c9b36b324516d94c3af6419f617672bb74b" status="verified"/>
@@ -662,10 +646,10 @@
 		<description>Blaster Master Boy (USA)</description>
 		<rom name="Blaster Master Boy (USA).gb" size="131072" crc="3b2c7118" md5="c4868bf46a993b4c33a9a8af5341282a" sha1="21b1e574a6f4543651e96de65994e7b0b7a6a0f6" sha256="01bb3527ea235380895b8df07a864829b2ad9e399f8cd90bb816110e2bfb1693"/>
 	</game>
-	<game name="Blaster Master Boy (USA) (Beta)" id="1753" cloneofid="0141">
+<!-- 	<game name="Blaster Master Boy (USA) (Beta)" id="1753" cloneofid="0141">
 		<description>Blaster Master Boy (USA) (Beta)</description>
 		<rom name="Blaster Master Boy (USA) (Beta).gb" size="131072" crc="4ea70173" md5="7522878c2206817ec8440d442a65c306" sha1="f568f9c7fe9ef9726d602727beca13d6978cd770"/>
-	</game>
+	</game> -->
 	<game name="Blaster Master Jr. (Europe)" id="0141">
 		<description>Blaster Master Jr. (Europe)</description>
 		<rom name="Blaster Master Jr. (Europe).gb" size="131072" crc="e9f9016f" md5="15d9979ace470a0abf9c83bc1f81dabf" sha1="6a6deae1942e7cf048ce35d18e9540363c226727" sha256="84d6eeaf706185dad3621251ac118e6fd22f3fd6a5c64999d0984bfffaebe196"/>
@@ -678,12 +662,12 @@
 		<description>Blodia (Japan)</description>
 		<rom name="Blodia (Japan).gb" size="65536" crc="51ff6e53" md5="5e3005e18f030f58e8b919d35cb297d7" sha1="a3927543ca471f479ba7aae7295788434672464e" sha256="907b9a2b490deee62dc03a94dd56959f6a205fc0e64a22e779855b5ba868895d"/>
 	</game>
-	<game name="Blues Brothers (USA, Europe) (Beta)" id="2118" cloneofid="0144">
+<!-- 	<game name="Blues Brothers (USA, Europe) (Beta)" id="2118" cloneofid="0144">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Blues Brothers (USA, Europe) (Beta)</description>
 		<rom name="Blues Brothers (USA, Europe) (Beta).gb" size="131072" crc="1f90d12a" md5="c4ea13687c331ce83c03d5fb400ea19a" sha1="f7139bb55c3cc7bae672ade9022fb548b72f6f2f" sha256="30627afab4c3d21173c21a8d1e4a91b78fb1f9bbe82e43be31582503a4d5225e"/>
-	</game>
+	</game> -->
 	<game name="Blues Brothers, The (USA, Europe)" id="0144">
 		<description>Blues Brothers, The (USA, Europe)</description>
 		<rom name="Blues Brothers, The (USA, Europe).gb" size="131072" crc="adb66eff" md5="ceaedf86193a8708a8a67e0e472b57fb" sha1="9dca8b83a5d73270319cf05396fcca8e6027e7b0" sha256="04aeb80ff35bd863c3922ad9b8cac7ee379e78feac4ce3cef2d58ccca142fc03" status="verified"/>
@@ -708,14 +692,14 @@
 		<description>Bokujou Monogatari GB (Japan) (Rev 1) (SGB Enhanced)</description>
 		<rom name="Bokujou Monogatari GB (Japan) (Rev 1) (SGB Enhanced).gb" size="524288" crc="da218e44" md5="275dc0712e83f34252c2fcd2eaefb72f" sha1="a1637d7ba09335631eac1291803ade05adcf5fc7" sha256="e744f074a6c12722174bf0fdd88d1c07a5040bd1d0726c832825991d6081e08f" status="verified"/>
 	</game>
-	<game name="Bomb Jack (Europe) (Beta 1)" id="1754" cloneofid="0150">
+<!-- 	<game name="Bomb Jack (Europe) (Beta 1)" id="1754" cloneofid="0150">
 		<description>Bomb Jack (Europe) (Beta 1)</description>
 		<rom name="Bomb Jack (Europe) (Beta 1).gb" size="32768" crc="ffa0e67a" md5="b199980b6e3fde27da5fb8d6d2b49356" sha1="a4c25218b2c35d6bd4fcf93ebdf81dfe22d4259a"/>
-	</game>
-	<game name="Bomb Jack (Europe) (Beta 2)" id="1755" cloneofid="0150">
+	</game> -->
+<!-- 	<game name="Bomb Jack (Europe) (Beta 2)" id="1755" cloneofid="0150">
 		<description>Bomb Jack (Europe) (Beta 2)</description>
 		<rom name="Bomb Jack (Europe) (Beta 2).gb" size="32768" crc="7ca8e543" md5="3ce1af74e7f2d498d08ff797dde87a1e" sha1="6fc3794149f5e75ad82b4a7d47ad5497e1ee4e6a"/>
-	</game>
+	</game> -->
 	<game name="Bomb Jack (Europe)" id="0150">
 		<description>Bomb Jack (Europe)</description>
 		<rom name="Bomb Jack (Europe).gb" size="32768" crc="9bd8815e" md5="7615154dc9afb1a7d7d2fe63b76c68e4" sha1="a2b2799e867777a5a19155ed1f2245630fc03560" sha256="beca58b71a27884d2c2820da0c7eb806fa945b2fab66da271588281e03153900"/>
@@ -849,10 +833,10 @@
 		<description>Bubble Ghost (USA, Europe)</description>
 		<rom name="Bubble Ghost (USA, Europe).gb" size="32768" crc="843068fd" md5="7f970d79f06cfb4270dea4b051277098" sha1="b08b8a9bf742f7ca4b355a866b4167741252dcf6" sha256="106d5443e092df3dc53035930766061f1ae4eae670470a93d648dc1adcda01c0" status="verified"/>
 	</game>
-	<game name="Bubble Ghost (USA, Europe) (Beta)" id="1757" cloneofid="0182">
+<!-- 	<game name="Bubble Ghost (USA, Europe) (Beta)" id="1757" cloneofid="0182">
 		<description>Bubble Ghost (USA, Europe) (Beta)</description>
 		<rom name="Bubble Ghost (USA, Europe) (Beta).gb" size="32768" crc="4a083f6f" md5="2d83537ba548e4118ea3e8ae0a309dfe" sha1="f5d063c70cecadda43d27d0c24f561a8f32b10f2"/>
-	</game>
+	</game> -->
 	<game name="Bubsy II (Europe)" id="0183">
 		<description>Bubsy II (Europe)</description>
 		<rom name="Bubsy II (Europe).gb" size="262144" crc="a3164516" md5="cd1fa506eea7590b0b24b6bdd153ffa9" sha1="f59306da42c5d8bbf41c870828c83bbcf1e2f0ac" sha256="e12000683878a88920701f59e4650d7b51673fc449bc68db94b113d72502383c"/>
@@ -877,18 +861,18 @@
 		<description>Bugs Bunny Crazy Castle, The (USA, Europe)</description>
 		<rom name="Bugs Bunny Crazy Castle, The (USA, Europe).gb" size="65536" crc="403e1b7e" md5="43189b859c0036119f233d46b1f2e9fd" sha1="2a3e982e542a849f95b4497025ca5b04db2abe8c" sha256="a0bd5d25545de941e719437f7829f4edf32b3a140a399387f96dda2f8059fe4e" status="verified"/>
 	</game>
-	<game name="Bung Greetings Demo (World) (Demo) (Unl)" id="2039">
+<!-- 	<game name="Bung Greetings Demo (World) (Demo) (Unl)" id="2039">
 		<description>Bung Greetings Demo (World) (Demo) (Unl)</description>
 		<rom name="Bung Greetings Demo (World) (Demo) (Unl).gb" size="65536" crc="1ae05af4" md5="b6da1be691ee98480f943e4fcdf5222d" sha1="bb01f845d330377749aeb6df1f7bea0eff78bb89" sha256="d93921d5b4ecaa9c8bf4407cebd43c7b1474fd802d4bd539c4763a0d138aab82"/>
-	</game>
-	<game name="Bung New Year's Greetings Demo (World) (Demo) (Unl)" id="2040">
+	</game> -->
+<!-- 	<game name="Bung New Year's Greetings Demo (World) (Demo) (Unl)" id="2040">
 		<description>Bung New Year's Greetings Demo (World) (Demo) (Unl)</description>
 		<rom name="Bung New Year's Greetings Demo (World) (Demo) (Unl).gb" size="65536" crc="493d4a1e" md5="0d327db8aabf20a0f6c4698f594b939c" sha1="737402fe70924f893fc212393eeb7f46f225745a" sha256="104c451033c1888c77734b4fb4db5d1f1681c4857d305a4dae125a6f31b49371"/>
-	</game>
-	<game name="Bung's Math Test (World) (Unl)" id="2038">
+	</game> -->
+<!-- 	<game name="Bung's Math Test (World) (Unl)" id="2038">
 		<description>Bung's Math Test (World) (Unl)</description>
 		<rom name="Bung's Math Test (World) (Unl).gb" size="32768" crc="ebeda9d2" md5="dd059180386c5d7b7b5c580d0e557a93" sha1="68581c24793e8ea63f3273efa7bc098309d77d1a" sha256="157a77addfcd9a4f8b4698edd4370b55c09660988a7d3161168e1682250ad4f4"/>
-	</game>
+	</game> -->
 	<game name="Burai Fighter Deluxe (USA, Europe)" id="0189">
 		<description>Burai Fighter Deluxe (USA, Europe)</description>
 		<rom name="Burai Fighter Deluxe (USA, Europe).gb" size="65536" crc="3c86f5db" md5="dd5aa6e85827a3ce6e4b7500e75a3262" sha1="178e18b7e6e65e726b4e06f80d89c55332ea868b" sha256="704c24466e0f92e280073af3191dae54b842a8736281c697f8c9d1f35f91b065" status="verified"/>
@@ -937,10 +921,10 @@
 		<description>Caesars Palace (USA) (Rev 1)</description>
 		<rom name="Caesars Palace (USA) (Rev 1).gb" size="131072" crc="87a9d605" md5="9c9679e4da4daa2ee22f1c35eef03cad" sha1="126e9ef9e975bbbc6303d5d62a379d4dbd404cf0" sha256="b8c8fd4686feb98f078b88a1eb5d821f1a2675de615764d918b90f97e73dd573" status="verified"/>
 	</game>
-	<game name="Caihong Zhanshi - Rainbow Prince (Taiwan) (Unl)" id="1879">
+<!-- 	<game name="Caihong Zhanshi - Rainbow Prince (Taiwan) (Unl)" id="1879">
 		<description>Caihong Zhanshi - Rainbow Prince (Taiwan) (Unl)</description>
 		<rom name="Caihong Zhanshi - Rainbow Prince (Taiwan) (Unl).gb" size="131072" crc="7c80ea40" md5="ed236aafb435db5624611939e9581894" sha1="13b5bbe649f4b679596df83589af6f6482997726" sha256="30cfb169e5850f1fd05cc510fff81a776fb0d1af5bc3ed04347a932e7ade1498"/>
-	</game>
+	</game> -->
 	<game name="Capcom Quiz - Hatena no Daibouken (Japan)" id="0202">
 		<description>Capcom Quiz - Hatena no Daibouken (Japan)</description>
 		<rom name="Capcom Quiz - Hatena no Daibouken (Japan).gb" size="262144" crc="8042afc5" md5="4adf20cf4ced9fa2512578c133ad269f" sha1="168583ea18e02647f0b35f9bd0365e37bec076cc" sha256="f98acdbb9bfd6f833a3ec47b8601eb664e5b981e842b76ab914f3ebdfebdee66"/>
@@ -973,10 +957,10 @@
 		<description>Casper (USA)</description>
 		<rom name="Casper (USA).gb" size="131072" crc="e67a10e1" md5="792c706a0addebed39d177077a1caac0" sha1="18b90172789c87819fe4d606aa7874109bcd8024" sha256="1bedb523a9612d48adafe8d70c88408f35e1fc84d0e70031649f3d113d5d9d09"/>
 	</game>
-	<game name="Casper (USA) (Beta)" id="1866" cloneofid="0208">
+<!-- 	<game name="Casper (USA) (Beta)" id="1866" cloneofid="0208">
 		<description>Casper (USA) (Beta)</description>
 		<rom name="Casper (USA) (Beta).gb" size="131072" crc="e0ab72fb" md5="f7816c22aa5d1467a95e08046d85d534" sha1="1d036bed67da4dc57add0e9e266fbdb993778823" sha256="be53ca237fc4002cd8a753d656abb456b1790d1a8d09fe215e80909bd17347ae"/>
-	</game>
+	</game> -->
 	<game name="Castelian (Europe)" id="0210">
 		<description>Castelian (Europe)</description>
 		<rom name="Castelian (Europe).gb" size="32768" crc="2f752404" md5="3502be0da5d444ec144aae9ce1409e0d" sha1="6720d86d420831a0a4865d4a59c4ba6fe98fa34d" sha256="5e3724004631ff91cb53facdd894feb38cb2a67d441389b6ea18882b9a8fc51a" status="verified"/>
@@ -1005,10 +989,10 @@
 		<description>Castlevania Legends (USA, Europe) (SGB Enhanced)</description>
 		<rom name="Castlevania Legends (USA, Europe) (SGB Enhanced).gb" size="262144" crc="ad9c17fb" md5="1475824e7262c0d6359f43c287e034a5" sha1="91a8e49bf6eac5fe62ec2cc5e6decbd08ce9b515" sha256="56d3dee063b8801704a284bd1bc229b94f15a3a448f485d347f04283d9bd16d7" status="verified"/>
 	</game>
-	<game name="Catrap (USA) (Beta)" id="1644" cloneofid="0217">
+<!-- 	<game name="Catrap (USA) (Beta)" id="1644" cloneofid="0217">
 		<description>Catrap (USA) (Beta)</description>
 		<rom name="Catrap (USA) (Beta).gb" size="32768" crc="ca3bc888" md5="d4a7bd8598b050262ed6f553b45d5b3e" sha1="928b9b3cb2ed5e6d6fc754679b3c994f7ed803c3" sha256="0bd0b65aedec210a01102d95fd4ff5ccdd6e068916eb6243b66331204d306fae"/>
-	</game>
+	</game> -->
 	<game name="Catrap (USA)" id="0217">
 		<description>Catrap (USA)</description>
 		<rom name="Catrap (USA).gb" size="32768" crc="adb96150" md5="5a75fe8de54e4cbd09cae23f050f6965" sha1="171e4d54f22f8dc137d12828fcc2da9874c56970" sha256="e796fd4a0f61733b123332b4ec1bed1955dbd4e63a292d0f7703f11c3d23883a"/>
